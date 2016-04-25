@@ -1,0 +1,19 @@
+{
+  "name" : "timestamp",
+  "version": "0.0.1",
+  "description": "Timestamp service project for FCC",
+  "main": "timestamp.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellacodecamp/timestamp"
+  },
+  "scripts": {
+    "start": "node timestamp.js"
+  },
+  "author": "Ella Baron",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "dotenv": "^2.0.0"
+  }
+}

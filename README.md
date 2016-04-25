@@ -1,4 +1,5 @@
-# timestamp
-This is timestamp microservice repo for FCC.
+# Timestamp Microservice FCC Backend project
 
-This is the first change to this file.
+This is repository implements timestamp microservice for one FCC backend projects.
+
+The service can be found running on [Heroku](https://???.herokuapp.com)
